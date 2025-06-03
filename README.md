@@ -116,7 +116,7 @@ Access Swagger UI at: http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-![Swagger UI](docs/swagger_preview.png)  
+![Swagger UI](src/SourceImg-1.png)  
 *API Documentation Interface*
 
 ---
