@@ -52,7 +52,7 @@ class ClassifierAgent:
             
         prompt = f"""You're an AI that classifies business document intent. 
 Content: {content}
-Identify the intent from [Invoice, RFQ, Complaint, Regulation, Query, Other].
+Identify the intent from [Invoice, RFQ, Complaint, Regulation, Query, ProjectUpdate Other].
 Respond with one word only.
 """
 
