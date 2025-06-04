@@ -117,11 +117,11 @@ Access Swagger UI at: http://127.0.0.1:8000/docs
 ## 📸 Screenshots
 
 ![Swagger UI](src/SourceImg-1.png)  
-![Swagger UI](src\Screenshot 2025-06-04 233011.png) 
-![Swagger UI](src\Screenshot 2025-06-04 233130.png) 
-![Swagger UI](src\Screenshot 2025-06-04 233215.png) 
+![Swagger UI](src/Screenshot 2025-06-04 233011.png) 
+![Swagger UI](src/Screenshot 2025-06-04 233130.png) 
+![Swagger UI](src/Screenshot 2025-06-04 233215.png) 
 *API Documentation Interface*
-[Click Here For Video Demonstration](https://drive.google.com/file/d/1fiJp_OPI0vN0pkeCjQ6HJI5wJc8waLoE/view?usp=sharing)  
+![Click Here For Video Demonstration](https://drive.google.com/file/d/1fiJp_OPI0vN0pkeCjQ6HJI5wJc8waLoE/view?usp=sharing)  
 
 
 ---
